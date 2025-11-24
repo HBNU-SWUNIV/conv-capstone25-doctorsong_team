@@ -1,0 +1,9 @@
+train: ./letsbe_data_resized/train/images
+val: ./letsbe_data_resized/valid/images
+test: ./letsbe_data_resized/test/images
+
+
+nc: 1
+names: ['bluecan']
+
+

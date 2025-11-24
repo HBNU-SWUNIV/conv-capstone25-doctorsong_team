@@ -1,0 +1,7 @@
+train: ./smoking/train/images
+val: ./smoking/valid/images
+test: ./smoking/test/images
+
+nc: 2
+names: ['cigarette', 'face']
+

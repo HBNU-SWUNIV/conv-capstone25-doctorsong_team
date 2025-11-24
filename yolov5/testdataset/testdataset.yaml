@@ -1,0 +1,7 @@
+train: ./testdataset/train/images
+val: ./testdataset/valid/images
+test: ./testdataset/test/images
+
+
+nc: 2
+names: ['can', 'plastic']

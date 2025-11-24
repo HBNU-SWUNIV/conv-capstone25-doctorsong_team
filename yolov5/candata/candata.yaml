@@ -1,0 +1,8 @@
+train: ./candata/train/images
+test: ./candata/test/images
+val: ./candata/valid/images
+
+nc: 1
+names: ['Cans']
+
+
