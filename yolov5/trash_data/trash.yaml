@@ -1,9 +1,0 @@
-train: ./trash_data/train/images
-val: ./trash_data/valid/images
-test: ./trash_data/test/images
-
-
-nc: 2
-names: ['aluminium', 'plastique']
-
-

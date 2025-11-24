@@ -1,7 +1,0 @@
-train: ./coca_data/train/images
-val: ./coca_data/valid/images
-test: ./coca_data/test/images
-
-
-nc: 2
-names: ['can', 'plastic']
